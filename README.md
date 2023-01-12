@@ -44,11 +44,19 @@
 <h2> Github Stats : <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 30px> </h2>
 
 
+<br/>
+<p align="left">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmankar&theme=algolia&hide_border=true" />
+  </a>
+</p>
+<br>
  
-  <br/>
+ <!---
+ <br/>
   <p align="center">
     <a href="https://github.com/sahilmankar/github-readme-stats"><img alt="Sahil Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahilmankar&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
+   -->
   
   </p>
 

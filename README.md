@@ -49,6 +49,6 @@
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmankar&theme=radical&hide_border=true" /></a>
   <br/>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmankar&theme=radical&layout=compact" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmankar&theme=radical&layout=compact&hide_border=true" /></a>
 
 

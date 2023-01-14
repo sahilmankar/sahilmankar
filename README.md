@@ -45,12 +45,10 @@
 
 
 <br/>
-<p>
  <img width="48.5%" alt="Sahil Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahilmankar&show_icons=true&count_private=true&&theme=radical&hide_border=true" /></a>
  <img width="48.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmankar&theme=radical&hide_border=true" /></a>
-  </p>
+  <br/>
   
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmankar&theme=radical&layout=compact" /></a>
 
-</p>
+

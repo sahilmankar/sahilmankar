@@ -3,13 +3,11 @@
 <p align="left"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=skyblue&size=22&lines=Hi,+I'm+Sahil;Welcome+to+my+GitHub+Profile!;I'm+a+Computer+Science+Student" ></a></p>
 
 <h2>Connect With Me   💬 </h2>
-
   <p>
   <a href="https://twitter.com/sahil_r__?t=AZWt_HMbphT-lX8aaAngMg&s=09" rel="nofollow"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="mailto:sahilmankar311@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> 
   <a href="https://github.com/sahilmankar/?tab=follow"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
   </p>
-
 <br>
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><ul dir="auto">
   <li><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"><img class="emoji" alt="wave" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png"></g-emoji> Hi, I’m sahil mankar</li>
